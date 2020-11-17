@@ -6,7 +6,8 @@ Join SB Hacks for a introductory workshop on web application development where w
 
 This is the *empty* starter code for the workshop. For the final code please head over to this [Github repo](https://github.com/sbhacks-org/webapps-workshop).
 
-[Link to Workshop Slides](https://docs.google.com/presentation/d/1bbLWLhqNQmEj77AiCSUEtPqrLTvFxtw1poIZpQdtPbw/edit?usp=sharing)
+[Link to Workshop Slides](https://docs.google.com/presentation/d/1bbLWLhqNQmEj77AiCSUEtPqrLTvFxtw1poIZpQdtPbw/edit?usp=sharing)  
+[Link to Workshop Recording](https://youtu.be/GXZf9KckoKo)
 
 **_Other SB Hacks Events:_**
 
